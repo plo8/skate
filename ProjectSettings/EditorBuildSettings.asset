@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1 Intro Skate.unity
+    guid: 5f86e1c5b039f41d0a94d9fde3c7d19c
+  - enabled: 1
+    path: Assets/Scenes/2 Sculpture Contest.unity
+    guid: 5e721bc3bc5f74762b0961b11f547b9f
+  - enabled: 1
+    path: Assets/Scenes/3 Contest to Boardwalk.unity
+    guid: ed4c4faca6b214fe2a5dd7decd6bd285
+  - enabled: 1
+    path: Assets/Scenes/4 Boardwalk.unity
+    guid: 9a075dc15e4604ac5813dbd051bf1135
+  - enabled: 1
+    path: Assets/Scenes/5 Beach to Forest.unity
+    guid: 3ac28b0ed0a7e45e7964b30824b51ab5
+  - enabled: 1
+    path: Assets/Scenes/6 Forest.unity
+    guid: f0540f324bab34cbc91aebbf8fbdfbbc
+  m_configObjects: {}
